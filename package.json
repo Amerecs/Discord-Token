@@ -1,0 +1,20 @@
+{
+  "name": "Source Discord.js V14.15.2",
+  "version": "1.0.0",
+  "description": "It is a source created by the wick studio team, ready to add any of your own commands to it, with the version discord.js v14.15.2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Wick Studio Team.",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "canvas": "^2.11.2",
+    "discord-api-types": "0.37.84",
+    "discord.js": "^13.17.1",
+    "fs": "^0.0.1-security",
+    "ms": "2.1.3"
+  }
+}
